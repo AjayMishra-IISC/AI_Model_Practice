@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\mishraaj\Desktop\Personal\IISC\Project\project-20240622T040012Z-001\Project_HandsOn\titanic_env
+set VIRTUAL_ENV=C:\Users\mishraaj\Desktop\Personal\IISC\Project\project-20240622T040012Z-001\Project_HandsOn\AI_Model_Practice\titanic_env
 
 if not defined PROMPT set PROMPT=$P$G
 
